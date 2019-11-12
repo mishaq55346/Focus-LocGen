@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LocTemplateGen:jar">
+    <output-path>$PROJECT_DIR$/bin</output-path>
+    <root id="archive" name="LocTemplateGen.jar">
+      <element id="module-output" name="LocTemplateGen" />
+    </root>
+  </artifact>
+</component>
